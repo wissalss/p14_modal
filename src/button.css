@@ -1,0 +1,11 @@
+.openModale{
+  background-color: #93AD18;
+  color: white;
+  font-size: 20px;
+  width: 20%;
+  height: 50px;
+  margin-left: 37%;
+  margin-top: 20%;
+  border-radius: 20px;
+  cursor: pointer;
+}

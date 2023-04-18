@@ -1,0 +1,22 @@
+.bcgModale {
+    border: #93AD18 solid;
+    background-color: #ebf6e0;
+    width: 40%;
+    height: 150px;
+    border-radius: 20px;
+    margin-left: 27%;
+    margin-top: -5.5%;
+    position: absolute;
+}
+
+.close {
+    margin-left: 90%;
+    margin-top: 20px;
+    color: #93AD18;
+    cursor: pointer;
+}
+h5 {
+    font-size: 20px;
+    text-align: center;
+    color: #93AD18;
+}
